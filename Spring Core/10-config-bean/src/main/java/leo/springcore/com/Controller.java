@@ -10,8 +10,9 @@ public class Controller {
 
     private Coach myCoach;
 
+    //We can use ID to access a class, other than class's name
     @Autowired
-    public Controller(@Qualifier("hockeyCoach") Coach theCoach){
+    public Controller(@Qualifier("bean") Coach theCoach){
         myCoach = theCoach;
     }
 

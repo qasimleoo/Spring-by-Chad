@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class SportsCoach {
-    @Bean
+    @Bean("bean")
     public Coach hockeyCoach(){
         return new HockeyCoach();
     }
