@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fa2c89c-c621-4dba-b4d8-8ceb7fc6e9eb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/Spring Core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/main/java/leo/springcore/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/main/java/leo/springcore/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/main/java/leo/springcore/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/01-constructor-injection/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/main/java/leo/springcore/demo/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/main/java/leo/springcore/demo/rest/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/main/java/leo/springcore/util/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/main/java/leo/springcore/util/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/02-component-scanning/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/03-setter-injection/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/04-field-injection/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/java/leo/springcore/com/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/05-qualifiers/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/java/leo/springcore/com/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/06-primary/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/java/leo/springcore/com/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/07-lazy-initialization/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/java/leo/springcore/com/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/08-bean-scope/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/SpringcoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/java/leo/springcore/com/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Core/09-bean-cycle-method(hooks)/src/test/java/leo/springcore/SpringcoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Chad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-nigga" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-nigga" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/src/main/java/com/lov2code/springboot/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_-Spring/mycoolapp/src/test/java/com/lov2code/springboot/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2TmaNs2Zk8gDOzFrhO8oydEDsTA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "b-1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fa2c89c-c621-4dba-b4d8-8ceb7fc6e9eb" name="Changes" comment="" />
+      <created>1691650673876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691650673876</updated>
+    </task>
+    <servers />
+  </component>
+</project>
