@@ -28,6 +28,10 @@ public class Employee {
         this.email = email;
     }
 
+    public void setId(int id) {
+        this.id = id;
+    }
+
     // define getters/setters
     public int getId() {
         return id;
