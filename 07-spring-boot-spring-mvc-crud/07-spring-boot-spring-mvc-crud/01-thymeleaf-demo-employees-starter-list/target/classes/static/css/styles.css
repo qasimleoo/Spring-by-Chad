@@ -1,0 +1,55 @@
+.add-button, .add-button:hover{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.div-add-button{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width: 150px;
+    height: 40px;
+    background-color: #12f12f;
+    margin-bottom: 15px;
+    border: 1px solid white ;
+    border-radius: 6px;
+}
+
+.name-input{
+    width: 300px;
+    height: 30px;
+    color: white;
+    background: #333;
+    font-size: 16px;
+    margin: 10px;
+    border-radius:6px;
+}
+
+.submit-button{
+    background-color: magenta;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.submit-button:hover{
+    background: rgb(110 10 140);;
+}
+
+.save-p{
+    font-size: 28px;
+    font-family: arial;
+    color: #62f1f9;
+}
+
+.back{
+    font-size: 20px;
+    color: grey;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.back:hover{
+    color: black;
+}
