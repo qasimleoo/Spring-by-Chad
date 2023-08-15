@@ -30,7 +30,6 @@
 	<table class="table table-bordered table-striped">
 		<thead class="table-dark">
 			<tr>
-				<th>Id</th>
 				<th>First Name</th>
 				<th>Last Name</th>
 				<th>Email</th>
@@ -41,13 +40,18 @@
 		<tbody>
 			<tr th:each="tempEmployee : ${employees}">
 
-				<td th:text="${tempEmployee.id}" />
 				<td th:text="${tempEmployee.firstName}" />
 				<td th:text="${tempEmployee.lastName}" />
 				<td th:text="${tempEmployee.email}" />
-				<a th:href="@{/employees/showFormForUpdate()}"></a>
-				<td th:text="${tempEmployee.email}" />
+				<!-- Update Function -->
+				<td>
+					<a th:href="@{/employees/showFormForUpdate(employeeId=${tempEmployee.id})}"
+					   class="div-add-button submit-button update-a">Update</a>
 
+					<a th:href="@{/employees/delete(employeeId=${tempEmployee.id})}"
+					   class="div-add-button submit-button update-a delete-a"
+						onclick="if (!(confirm('Are you sure to delete this employee?'))) return false">Delete</a>
+				</td>
 			</tr>
 		</tbody>		
 	</table>

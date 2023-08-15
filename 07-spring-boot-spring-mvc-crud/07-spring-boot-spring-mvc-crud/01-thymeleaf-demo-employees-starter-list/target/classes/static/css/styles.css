@@ -38,18 +38,33 @@
 }
 
 .save-p{
+    margin-top:20px;
     font-size: 28px;
     font-family: arial;
     color: #62f1f9;
 }
 
-.back{
+.back, .update-a{
     font-size: 20px;
     color: grey;
     text-decoration: none;
     margin: 10px;
 }
 
+.update-a{
+    color: white;
+    margin-right: -20px;
+}
+
 .back:hover{
     color: black;
+}
+
+.delete-a{
+    background: #aa0000;
+}
+
+.delete-a:hover{
+    color: grey;
+    background: #ccc;
 }
