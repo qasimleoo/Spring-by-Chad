@@ -14,18 +14,23 @@
     <br> <br>
     Roles: <span sec:authentication="principal.authorities"></span>
 
-    <hr>
     <!-- Add link for leaders .. which is for managers -->
-    <p>
-        <a th:href="@{/leaders}">Leadership Meeting</a>
-        (Only for Manager peeps)
-    </p>
+    <div sec:authorize="hasRole('MANAGER')">
+        <hr>
+        <p>
+            <a th:href="@{/leaders}">Leadership Meeting</a>
+            (Only for Manager peeps)
+        </p>
+    </div>
 
     <!-- Add link for Systems .. which is for managers -->
-    <p>
-        <a th:href="@{/systems}">Admin Meeting</a>
-        (Only for Admin peeps)
-    </p>
+    <div sec:authorize="hasRole('ADMIN')">
+
+        <p>
+            <a th:href="@{/systems}">Admin Meeting</a>
+            (Only for Admin peeps)
+        </p>
+    </div>
 
     <hr>
     <form action="#" th:action="@{/logout}" method="POST">
