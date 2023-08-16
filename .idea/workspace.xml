@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58ec896b-bb9d-445a-9172-9a462e2465a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/PgpdApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/rest/DRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/rest/StudentErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/rest/StudentNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/rest/StudentRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/java/com/codingislove/PGPD/rest/StudentRestExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/01-rest-crud/src/test/java/com/codingislove/PGPD/PgpdApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/RestCrudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/dao/EmployeeDAOJpaImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/java/com/codingislove/REST_CRUD/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/02-rest-crud-employee/src/test/java/com/codingislove/REST_CRUD/RestCrudApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/RestCrudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/java/com/codingislove/REST_CRUD/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/03-crud-employee-with-spring-data-jpa/src/test/java/com/codingislove/REST_CRUD/RestCrudApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/src/main/java/com/codingislove/REST_CRUD/RestCrudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/src/main/java/com/codingislove/REST_CRUD/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/src/main/java/com/codingislove/REST_CRUD/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/04-crud-employee-with-spring-data-rest/src/test/java/com/codingislove/REST_CRUD/RestCrudApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Spring Boot REST Crud/exmployee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/05-Spring Boot REST Security.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/sql-scripts/employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/CruddemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring Boot REST Security/00-spring-boot-rest-security-employee-starter-code/target/test-classes/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/main/java/com/codingislove/thymeleafdemo/ThymeleafdemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/main/java/com/codingislove/thymeleafdemo/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/main/resources/static/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/main/resources/templates/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/01-thymeleaf-hello/src/test/java/com/codingislove/thymeleafdemo/ThymeleafdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/java/com/codingislove/validationdemo/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/java/com/codingislove/validationdemo/ValidationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/java/com/codingislove/validationdemo/ValidationdemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/java/com/codingislove/validationdemo/validation/CourseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/java/com/codingislove/validationdemo/validation/CourseCodeConstraintValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/resources/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/resources/templates/customer-confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/main/resources/templates/customer-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Boot Spring MVC/02-validationdemo/src/test/java/com/codingislove/validationdemo/ValidationdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/07-spring-boot-spring-mvc-crud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/sql-scripts/employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/templates/employees/employee-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/templates/employees/list-employees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/resources/templates/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/test/java/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/controller/DemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/dao/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/com/luv2code/springboot/thymeleafdemo/service/EmployeeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/templates/employees/employee-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/templates/employees/list-employees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/classes/templates/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/target/test-classes/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/sql-scripts/employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/java/com/codingislove/mvcsecurity/MvcsecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/java/com/codingislove/mvcsecurity/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/java/com/codingislove/mvcsecurity/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/java/com/codingislove/mvcsecurity/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/access-denied.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/fancy-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/leaders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/plain-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/main/resources/templates/systems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-mvc-security-default/src/test/java/com/codingislove/mvcsecurity/MvcsecurityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/java/com/codingislove/mappings/MappingsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/java/com/codingislove/mappings/dao/AppDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/java/com/codingislove/mappings/dao/AppDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/java/com/codingislove/mappings/entity/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/java/com/codingislove/mappings/entity/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/01-jpa-one-to-one-uni/src/test/java/com/codingislove/mappings/MappingsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/MappingsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/dao/AppDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/dao/AppDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/entity/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/java/com/codingislove/mappings/entity/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/03-jpa-one-to-many/src/test/java/com/codingislove/mappings/MappingsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/MappingsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/dao/AppDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/dao/AppDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/entity/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/entity/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/java/com/codingislove/mappings/entity/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-spring-boot-data-jpa-mappings/04-jpa-one-to-many-uni/src/test/java/com/codingislove/mappings/MappingsApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
+  <component name="ProjectId" id="2TmaaeVGb9wz1FpElDgwcmnRFx4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "qasim"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ec896b-bb9d-445a-9172-9a462e2465a2" name="Changes" comment="" />
+      <created>1691650774871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691650774871</updated>
+    </task>
+    <servers />
+  </component>
+</project>
