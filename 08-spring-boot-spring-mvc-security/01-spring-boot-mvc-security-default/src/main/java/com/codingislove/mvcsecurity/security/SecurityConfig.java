@@ -37,11 +37,20 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception{
 
         httpSecurity.authorizeHttpRequests(configurer ->
-                configurer.anyRequest().authenticated())
+                configurer
+                        .requestMatchers("/").hasRole("EMPLOYEE")
+                        .requestMatchers("/leaders/**").hasRole("MANAGER")
+                        .requestMatchers("/systems/**").hasRole("ADMIN")
+                        .anyRequest().authenticated())
                 .formLogin(form ->
                         form.loginPage("/showMyLoginPage")
                                 .loginProcessingUrl("/authenticateTheUser")
-                                .permitAll());
+                                .permitAll()
+                )
+                .exceptionHandling(configurer ->
+                        configurer.accessDeniedPage("/access-denied"))
+                .logout(logout -> logout.permitAll()
+                );
 
         return httpSecurity.build();
     }
